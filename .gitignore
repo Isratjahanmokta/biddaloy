@@ -1,0 +1,7 @@
+venv
+.env
+media
+*.pyc
+__pycache__
+*.env
+.vscode
