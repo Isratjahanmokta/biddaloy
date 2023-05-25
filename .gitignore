@@ -1,6 +1,7 @@
 venv
 .env
 media
+static
 *.pyc
 __pycache__
 *.env
